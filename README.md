@@ -1,0 +1,2 @@
+# osinstall
+cobbler and kickstart
